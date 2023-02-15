@@ -1,4 +1,4 @@
-package com.violet.designPattern.strategyPattern;
+package com.violet.designPattern.strategyPattern.design;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

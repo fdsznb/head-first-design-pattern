@@ -1,4 +1,4 @@
-package com.violet.designPattern.strategyPattern;
+package com.violet.designPattern.strategyPattern.design;
 
 public class Squeak implements QuackBehavior{
     @Override
