@@ -1,4 +1,4 @@
-package com.violet.designPattern.strategyPattern.design;
+package com.violet.designPattern.strategyPattern.design1;
 
 public class Quack implements QuackBehavior {
     @Override
